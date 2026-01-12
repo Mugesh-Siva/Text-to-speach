@@ -1,0 +1,125 @@
+Voicely – Terms & Conditions and Privacy Policy
+
+Last updated: [DATE]
+
+This document contains both the Terms & Conditions and the Privacy Policy for the Voicely mobile application ("the App"). Please read it carefully before using the App.
+
+By installing, accessing, or using Voicely, you agree to both the Terms & Conditions and the Privacy Policy described below. If you do not agree, please discontinue use of the App.
+
+Privacy Policy
+1. Overview
+
+Voicely is an offline-first text-to-speech application that does not require user registration, login, or account creation. We respect user privacy and aim to collect minimal to no personal data.
+
+2. Data Collection
+
+Voicely does not directly collect, store, or process personal user data such as:
+
+Name
+
+Email address
+
+Phone number
+
+Location
+
+Login credentials
+
+3. Offline Usage
+
+All core features of Voicely work completely offline.
+
+When offline, the app displays only default local content.
+
+4. Online Features & Banner Content
+
+When the user is connected to the internet:
+
+The app may download banner images and text content to the device.
+
+These banners may include:
+
+Informational messages (e.g., greetings, announcements)
+
+Custom promotional or clickable content that may redirect to an external URL
+
+Downloaded banner content is stored locally on the device for display purposes.
+
+5. Advertisements
+
+Voicely does not use Google Mobile Ads (AdMob) or similar ad networks.
+
+The app may display customized third-party promotional content within the banner area when the user is online.
+
+Clicking such content may open external websites, which are governed by their own privacy policies.
+
+6. Donations
+
+Voicely provides an optional donation QR code for users who wish to support the app voluntarily.
+
+Donations are processed via third-party UPI applications (such as Google Pay).
+
+Voicely does not store or track transaction details.
+
+Transaction records are handled entirely by the respective UPI app and financial institutions.
+
+If a user voluntarily adds a note (for example, requesting contact for promotions), that information may be used solely for the stated purpose.
+
+7. Data Storage
+
+Banner images and related text may be cached locally on the device.
+
+No cloud database is maintained by Voicely for user data.
+
+8. Children’s Privacy
+
+Voicely is suitable for a general audience and does not knowingly collect data from children.
+
+9. Changes to Privacy Policy
+
+This Privacy Policy may be updated from time to time. Any changes will be reflected within the app under Settings, where the latest version will always be accessible.
+
+Terms & Conditions
+1. Use of the App
+
+Voicely is provided for personal and lawful use only.
+
+You agree not to misuse the app or use it for any illegal activities.
+
+2. Content Responsibility
+
+Users are solely responsible for the text they input into the app.
+
+Voicely is not responsible for how generated speech is used.
+
+3. Intellectual Property
+
+All app content, design, and functionality are the property of Voicely unless otherwise stated.
+
+You may not copy, modify, distribute, or reverse-engineer the app.
+
+4. External Links
+
+The app may contain links to third-party websites through banner content.
+
+Voicely is not responsible for the content, services, or policies of external sites.
+
+5. Availability
+
+We do not guarantee uninterrupted or error-free operation of the app.
+
+Features or content may change or be discontinued at any time.
+
+6. Limitation of Liability
+
+Voicely is provided "as is" without warranties of any kind. We are not liable for any damages arising from the use or inability to use the app.
+
+7. Changes to Terms
+
+We reserve the right to modify these Terms & Conditions at any time. Continued use of the app after changes indicates acceptance of the updated terms.
+
+Accessing This Page:
+
+This combined Terms & Conditions and Privacy Policy page is accessible from the app’s Settings screen.
+
+Users may review the most recent version at any time.
